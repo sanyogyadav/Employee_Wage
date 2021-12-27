@@ -1,4 +1,4 @@
-class WagecomputationUC4 {
+class Wagecomputation {
 
 			// Creating constant to  compare it with random generated value
                 	public static final int FULL_TIME = 1;
